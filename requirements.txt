@@ -1,3 +1,6 @@
+[global]
+timeout = 30
+
 absl-py
 astor
 astunparse
